@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web4</title>
+    <style>
+        body{
+            border:3px solid gray(0);
+        }
+
+        .class1 {
+            font: 60px 微软雅黑, 楷体, 黑体;
+            color: #99BBFF ;
+            text-shadow: 3px 3px #d8d8e0;
+            text-align: center;
+        }
+        .class2 {
+            font: 25px 微软雅黑, 楷体, 黑体;
+            color: 	#4fabd6;
+            text-shadow: 3px 3px #d8d8e0;
+        }
+        .class3 {
+            font: 30px 微软雅黑, 楷体, 黑体;
+            color: #5599FF  ;
+            text-shadow: 3px 3px #d8d8e0;
+        }
+		 .class34{
+            font: 25px 微软雅黑, 楷体, 黑体;
+            color: #5599FF  ;
+            text-shadow: 3px 3px #d8d8e0;
+        }
+        
+        table {
+            margin: 160px auto;
+            box-shadow: 5px 5px gray;
+            border-radius: 30px;
+            border: 3px solid black;
+        }
+        a{
+            font: 25px 微软雅黑, 楷体, 黑体;
+        }
+
+    </style>
+</head>
+<div class="class1">所学知识</div>
+<div class="class2">
+grep：查找文件夹里面的东西</br>
+grep '^b' cet6.txt：查找文本文档cet6.txt里的所有b开头的单词</br>
+grep 'ab' cet6.txt：查找文本文档cet6.txt里的所有ab开头的单词</br>
+grep 'ab' cet6.txt |wc：查找文本文档cet6.txt里的所有ab开头的单词数量</br>
+grep 'ab$' cet6.txt：查找文本文档cet6.txt里的所有ab结尾的单词</br>
+grep 'ab$' cet6.txt |wc：查找文本文档cet6.txt里的所有ab结尾的单词数量</br>
+<div class="class3">
+当有中文释义时，需将单词与中文切开，才能找到单词的结尾</br>
+</div>
+<div class="class4">
+cut：剪切</br>
+cut --delimiter='/'-f1 :j：剪切文本</br>
+cut --delimiter='/' -f1 cet6.txt | grep 'st$'：查找以st结尾的单词</br>
+cut --delimiter='/' -f1 cet6.txt | grep 'st$' |wc：查找以st结尾的单词数量</br>
+
+</div>
+
+</body>
+
+</html>

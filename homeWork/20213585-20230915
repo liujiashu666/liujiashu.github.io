@@ -1,0 +1,140 @@
+    1  ls
+    2  mkdir
+    3  mkdir L/
+    4  d/
+    5  history
+    6  cd/
+    7  cd 
+    8  ls/
+    9  ls
+   10  mkdir ljs/
+   11  ls ljs/
+   12  ls
+   13  d
+   14  d
+   15  d/
+   16  exit
+   17  d/
+   18  eixt
+   19  exit
+   20  e
+   21  e/
+   22  ls
+   23  cd Git/
+   24  history
+   25  cd/
+   26  cd
+   27  ls
+   28  mkdir ljs/
+   29  ls
+   30  rm ljs/
+   31  rm  -r ljs/
+   32  mkdir Liujs
+   33  ls Liujs/
+   34  mkdir liujs
+   35  cd /
+   36  ls
+   37  mkdir liujs
+   38  ls
+   39  cp d:/图片/丸子妹.jpg .
+   40  cp d:/图片/丸子妹.jpg* .
+   41  history 
+   42  cp d:/图片/丸子妹.jpg./
+   43  cp d:/图片/丸子妹.jpg e:/Java web/Git/liujs
+   44  rm -s
+   45  rm -r Liujs/
+   46  rm -r Liujs/
+   47  history > 20213585-20230906
+   48  /d
+   49  / d
+   50  d /
+   51  d
+   52  history
+   53  cd
+   54  cd /
+   55  ls
+   56  mkdir liujs
+   57  ls
+   58  cp d:/图片/青春系列宣讲视频（邱会培）.mp4 e:/Java web/Git/liujs
+   59  cp d:/图片/青春系列宣讲视频（邱会培）.mp4 e:/java web/Git/liujs
+   60  ls liujs/
+   61  ls
+   62  cp d:/图片/青春系列宣讲视频(邱会培).mp4 liujs/
+   63  history
+   64  cp d:/图片/青春系列宣讲视频(邱会培).mp4/ liujs/.
+   65  history
+   66  cp d:/图片/青春系列宣讲视频(邱会培).mp4 liujs/.
+   67  cp d:/图片/猪猪头像.jpg e:/Java web/Git/liujs
+   68  cd
+   69  ls
+   70  cd /
+   71  ls
+   72  cp d:/图片/猪猪头像.jpg e:/Java web/Git/liujs
+   73  history
+   74  cp d:/Picture/猪猪头像.jpg e:/Java web/Git/liujs
+   75  history
+   76  cp d:/Picture/猪猪头像.jpg/. e:/Java web/Git/liujs
+   77  cp d:/Picture/* . liujs/
+   78  cp e:/图片/猪猪头像.jpg liujs/
+   79  cp d:/Pictures/猪猪头像.jpg liujs/
+   80  cp d:/Pictures/丸子妹.jpg liujs
+   81  cp d:/Pictures/青春系列宣讲视频（邱会培）.mp4 liujs
+   82  rm -r图片
+   83  cd e/
+   84  ls
+   85  rm -r图片
+   86  rm -r 图片
+   87  history
+   88  pwd
+   89  cat liujs
+   90  cat e:/Java web/Git/liujs
+   91  cat
+   92  history
+   93  mv liujs liujiashu
+   94  ls
+   95  mv 猪猪头像 小猪猪
+   96  ls liujiashu
+   97  cd liujiashu
+   98  mv 猪猪头像 small.GG
+   99  mkdir small.GG
+  100  cp e:/Java web/Git/liujiashu/猪猪头像.jpg small.GG
+  101  CP 猪猪头像 small.GG
+  102  CP 猪猪头像.jpg small.GG
+  103  ls small.GG
+  104  history
+  105  pwd
+  106  cd
+  107  cat
+  108  history
+  109  cat liujiashu
+  110  cat small.GG
+  111  history
+  112  history>20213585-20230907
+  113  vim
+  114  history
+  115  historyty
+  116  history
+  117  cd e/
+  118  cd 'Java web'/
+  119  cd Git
+  120  cd liujiiashu/
+  121  cd liujiashu/
+  122  ls
+  123  tar -xf videoClips
+  124  ls videoClips
+  125  ls
+  126  rm -r videoClips
+  127  cp videoMP4 mp3
+  128  cp -r videoMP4 mp3
+  129  mv -r videoMP4 mp3
+  130  mv --help
+  131  mv videoMP4 mp3
+  132  cd mp
+  133  cd mp
+  134  cd mp3
+  135  rm -r videoMP4
+  136  cd liujiashu
+  137  cd ..
+  138  mv -r videoMP4 mp3
+  139  mv videoMP4 mp3
+  140  history > 20213585-20230915
